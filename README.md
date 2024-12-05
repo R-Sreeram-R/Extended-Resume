@@ -8,7 +8,6 @@ The links to the PDF and other resources are provided below the resume:
 
 ![Sreeram Raghammudi's Resume - Page 1](./resume_jpegs/Sreeram_Profile_page-0001.jpg)
 
-#### Page 2
 ![Sreeram Raghammudi's Resume - Page 2](./resume_jpegs/Sreeram_Profile_page-0002.jpg)
 
 ### PDF Version
