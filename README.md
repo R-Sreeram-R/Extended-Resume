@@ -4,7 +4,6 @@ Welcome to my GitHub repository! Below, you'll find my resume displayed as image
 
 ## Resume
 
-### Image Version
 The links to the PDF and other resources are provided below the resume:
 
 ![Sreeram Raghammudi's Resume - Page 1](./resume_jpegs/Sreeram_Profile_page-0001.jpg)
